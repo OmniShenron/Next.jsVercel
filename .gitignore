@@ -5,6 +5,7 @@ node_modules/
 .next/
 
 # public
-public/
+public/*
+
 # env files
 .env
