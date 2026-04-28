@@ -4,8 +4,5 @@ node_modules/
 # next build
 .next/
 
-# public
-public/*
-
 # env files
 .env
