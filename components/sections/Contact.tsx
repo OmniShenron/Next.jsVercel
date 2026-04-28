@@ -25,7 +25,7 @@ export default function Contact() {
             { icon:'✉', label:'Email',    val:'saipraneeth3722@gmail.com', href:'mailto:saipraneeth3722@gmail.com', c:'#9b6dff' },
             { icon:'📞', label:'Phone',   val:'+91-9100066989',             href:'tel:+919100066989',              c:'#00f5ff' },
             { icon:'📍', label:'Location',val:'Hyderabad, India · GMT+5:30',href:null,                             c:'#e8b84b' },
-            { icon:'💼', label:'LinkedIn',val:'shanmukha-sai-praneeth',     href:'https://linkedin.com/in/shanmukha-sai-praneeth', c:'#00ff9d' },
+            { icon:'💼', label:'LinkedIn',val:'shanmukha-sai-praneeth',     href:'https://www.linkedin.com/in/shanmukha-sai-p-a14047136', c:'#00ff9d' },
           ].map((l,i) => {
             const El: any = l.href ? 'a' : 'div'
             return (
